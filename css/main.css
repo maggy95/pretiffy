@@ -1,0 +1,148 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	text-align: center;
+	margin-top: 10px;
+}
+nav a{
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	color: black;
+	font-weight: bold;
+	font-size: 14px;
+}
+p{
+	display: inline-block;
+	margin-right: 40px;
+}
+
+.fondo{
+	background-image:url("../images/background.jpg"); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	position: relative;
+	padding-top:65px;
+	height: 350px;
+	border-top: 1px solid black;
+}
+.medium{
+	margin:auto;
+	margin-left: 420px;
+	width: 226px;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
+.fondo1{
+	background-image:url("../images/tile1.png"); 
+	background-repeat: repeat;
+	height: 400px;
+}
+
+img{
+	width: 50px;
+	height:50px;
+
+}
+.medium p{
+	color: white;
+	font-size: 40px;
+	margin-left: -93px;
+}
+.sub{
+	font-size: 24px;
+	color: white;
+	margin-left: -50px;
+	bottom: 20px;
+}
+.centro{
+	width: 1050px;
+	padding-top: 80px;
+	margin:auto;
+	margin-left: 420px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.me{
+	font-family: 'Oswald', sans-serif;
+	font-size: 34px;
+	color: 	#990099;
+	margin-left:220px;
+}
+.centro img{
+	margin-top: 80px;
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin-left: -210px;
+	border:2px solid grey;
+	padding: 3px ;
+	background: white;
+}
+.lorem{
+	width: 905px;
+	margin-top: 30px;
+	margin-left: 20px;
+	font-size: 16px;
+}
+.cat{
+	width: 900px;
+	color:#990099;
+	margin-left: 150px;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.info{
+	width: 500px;
+	text-align: center;
+	margin-top: 80px;
+}
+.favorito{
+	font-family: 'Oswald', sans-serif;
+	font-size: 32px;
+	margin-left: 20px;
+}
+.love{
+	font-family: 'Oswald', sans-serif;
+	font-size:16px;
+	margin-left: 55px;
+	margin-top: 15px;
+}
+.cat1{
+	width: 845px;
+	margin: auto;
+	margin-top: 20px;
+}
+.c1{
+	border: 2px solid #990099;
+	padding: 4px ;
+	background: white;
+    border-radius: 50%;
+	width:180px;
+	height:180px;
+}
+.c2{
+    border-radius: 50%;
+	width:100px;
+	height:100px;
+}
+footer{
+	text-align: center;
+	margin: auto;background-image:url("../images/tile2.png"); 
+	background-repeat: repeat;
+	height: 340px;
+	padding-top: 80px;
+}
+
+.Me{
+	font-family: 'Oswald', sans-serif;
+	font-size:26px;
+	color:#990099;
+}
+.Cont{
+	width: 500px;
+	margin: auto;
+	margin-top: 60px;
+}
